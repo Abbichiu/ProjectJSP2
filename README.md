@@ -1,6 +1,6 @@
 # ProjectJSP2
 Read me before running the code, unzip the project file:
-
+there is a clear versiom in Readme.docx!
 Before, open the web application project in NetBeans IDE
 First, Apache NetBeans IDE is required to perform the web application in java using html and jsp. (assume Apache NetBeans IDE is being installed)
 You have to download the apache tomcat server zip files  https://tomcat.apache.org/download-10.cgi as default server connected with jsp files 
