@@ -8,7 +8,7 @@ Download Mysql community server( depends on your computer version) and sql conne
 https://dev.mysql.com/downloads/mysql/
 https://dev.mysql.com/downloads/connector/j/5.1.html
 After successful download, you have to initialize the mysql as below:
-1. Start MySQL server
+step1:. Start MySQL server
 -       Open a command prompt
 -       Go to the “bin” directory within the extracted root folder of the MySQL server with command “cd”
 o   E.g., “cd C:\Users\student\Desktop\mysql-8.0.18-winx64\bin”
@@ -18,7 +18,7 @@ mysqld --initialize-insecure
 -       Start the MySQL server with command
 mysqld
 
- 2. Execute SQL command to create user
+ step2:. Execute SQL command to create user
 -       Open another command prompt
 .      Again, change to the “bin” directory of the extracted root folder of the MySQL server with command “cd”
 -       a. Start the MySQL client as the “root”
@@ -47,14 +47,17 @@ create database user;
 use user;
 
 
-Insert mysql commands from projectjsp.txt to create tables
+step3:Insert mysql commands from projectjsp.txt to create tables
 1.login
 2.student
 3.studentcourse
 4.teacher
 5.admin
 6.personal
-7.Quit mysql
+
+
+
+step:4.Quit mysql
 quit
 
 
